@@ -16,4 +16,4 @@ Este proyecto es una demostración práctica de cómo configurar y utilizar Spri
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/demo-spring-batch-scheduler.git
+https://github.com/CxrlosMX/demo-spring-batch-scheduler.git
